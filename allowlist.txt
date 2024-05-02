@@ -1,0 +1,6 @@
+# Kontr0x - Allowlist
+# https://github.com/kontr0x/zoneListicle
+# Allowlist for unblocking specific domains
+
+@@||chip.de^$important
+@@||strato.de^$important
